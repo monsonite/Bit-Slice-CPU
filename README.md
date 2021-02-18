@@ -1,4 +1,4 @@
-# BitSlice
+# Bit Slice
 
 An investigation of bit slice cpu architectures
 
